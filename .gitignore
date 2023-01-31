@@ -1,5 +1,5 @@
 
-*.ipynb
+*.ipynb_*
 .Rproj.user
 .DS_Store
 SS1/.Rhistory
