@@ -5,3 +5,13 @@
 SS1/.Rhistory
 SS1/*
 *.RData
+SS7/data/estudiantes.csv
+SS7/data/nbc_pilotsurvey.csv
+SS7/data/nbc_showdetails.csv
+SS7/data/rollcall-votes.csv
+SS7/data/rollcall-members.csv
+SS7/data/shakira_tweets.xlsx
+SS7/figs/subspace_projection.png
+SS7/figs/var_proyection.png
+SS7/SS7_PCA_w_notes.ipynb
+SS7/SS7_texto.ipynb
